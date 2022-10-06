@@ -1,2 +1,0 @@
-# aEscolhaSua
-first commit
